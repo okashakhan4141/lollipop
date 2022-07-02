@@ -1,0 +1,6 @@
+# Modules
+node_modules/
+dist/
+
+# Enviornment Files
+.env
